@@ -1,0 +1,3 @@
+$filename= "enter the name: $name";
+$name = <STDIN>;
+print $filename;
